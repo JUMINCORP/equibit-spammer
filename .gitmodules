@@ -1,0 +1,3 @@
+[submodule "testnet-alpha"]
+	path = testnet-alpha
+	url = git@github.com:Equibit/Testnet-Alpha.git
